@@ -1,0 +1,5059 @@
+fileFormatVersion: 2
+guid: d6f4be67b87893d4abc3024ecaf38ec3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Natsu-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1181
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a05d92b8c66af84985d7c4f756f6bf3
+      internalID: 119998768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1101
+        width: 137
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e488d603c6080449ab1f1c4632bb62a
+      internalID: 410272581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1183
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0702bc465eac6604d9c2aa2aa3652498
+      internalID: -2144867866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1084
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21597dcc4082a2c49b0cf2088e1d30da
+      internalID: -1106353781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1099
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cf142027a476c43886f44909984553
+      internalID: 20832471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1099
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa203de2f94188e41b22ad15f818db75
+      internalID: 1754651478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1099
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33709b1f1bcf41548abfe728e97c6346
+      internalID: -1291206512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1101
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f37a4b64ab74d478d9903637074000
+      internalID: -1338713101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1101
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed827f216b4e344097d7b3de89fe48f
+      internalID: 422209093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1100
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9407e72254ee3a40bb8b15f87f079c3
+      internalID: -1615932132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1100
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b857b8b3fdae4888a3fe80c36247e
+      internalID: -500561269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1087
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa0d835c874f746b3a36a29ce8a29e
+      internalID: 152066400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1034
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287fadeb4bce1a4a9d6b83aba80dce9
+      internalID: 1934551361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1035
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e83b2dbec5e53429995ddb4df2ce7d
+      internalID: -1951430309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1035
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c415c555d782e44898e3be377e9b169
+      internalID: 241170267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1035
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ba4158900a3845b4ec74d8c908275
+      internalID: -529880892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1035
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a072246cfc5b40bd1eed95e0fb46c
+      internalID: -676727967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1035
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd96475a43509047a8f661f52a72fb9
+      internalID: 1013115028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1035
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88239365f8c55b4fad4859b293e90d8
+      internalID: 1512503584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1035
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e31bdd53bd76b46b83be9024e6d268
+      internalID: -1075758884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1035
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de8de61b9bd9f46b934f5ec6b0e9dd
+      internalID: -396911588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1074
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd77eff894ad80342a4079b97adc753f
+      internalID: 1538240535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1074
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ffc2dc8e41b84aa7a31882f225e56
+      internalID: -1447223183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1051
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f948ab960ae3294c90a4fda1ecc0a1b
+      internalID: 1747696335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1049
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ffb77ab17f1d1409cd060501c60c3e
+      internalID: 1172503241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1061
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31b5e8555489844aa967be166e99c9
+      internalID: -1322681223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1065
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9330514c4f7b684f9cb6b23fbc705e1
+      internalID: 1709191418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1064
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216a49057c1e5a409220e444dea16d1
+      internalID: -1178704712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1050
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da8a06a8afbece46866dcd4b4d6c017
+      internalID: -721653816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1051
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c238ec39024404ca40deb25ce67c67
+      internalID: -1054231846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1019
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576a10d4705a58438720bab55b238b3
+      internalID: 38374583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1018
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446c4ed81e0600a4e93936b3a94432e2
+      internalID: 1762471513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1000
+        width: 137
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070accfeedd45d449c0733166f3e06f
+      internalID: -1573780906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1012
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0de314da9da9c4f9a5ce26e3252ebe
+      internalID: 480621215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 963
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c071eee1fbde4d915b33908241f11
+      internalID: 1094441863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 963
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60299e7fa925929488451f8674a616ee
+      internalID: 1893976219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 963
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1135dfece250458618e6221ec1216
+      internalID: -1827742791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 964
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85cc289e4f724c42b0be5e17405d20c
+      internalID: -693598670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 964
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e0e2eac0fd894fa169ae92a47f026
+      internalID: 23117790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 963
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2e8175414d024288618ea9f31583b
+      internalID: -333559577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 963
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87764c5befa2a4cbc6f85785a60f44
+      internalID: -397025897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 963
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49927548d77324d9bdf448f4047b30
+      internalID: -201340844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 963
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998deef31d6a40840a411c714d712967
+      internalID: 2126592000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 963
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf9806f0e2d49b4083b1f2ce271204f
+      internalID: -1531895348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 962
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf4cce561a8f444aac873d71cd5fe08
+      internalID: -479250139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 993
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e43b127f489eea4bb344519cd7d6b08
+      internalID: -832418679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 992
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3baf4f6fbead248a83f12979040afa
+      internalID: -159054693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 993
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2c55ed4fa529458dcd69e2a1e5f04
+      internalID: -651219926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 984
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd871530fd3eb40bb1e9cb4723ac19
+      internalID: -963643280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 975
+        width: 67
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a484f70cf9bf5de40a034b2fc5497440
+      internalID: -2061712871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 984
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d794e12cc17781f4fac2291c86a185e1
+      internalID: 324676414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 984
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5312ff7167ad96f4c9fe95f745678929
+      internalID: -703428849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 984
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819b77c80afdcc42b86bad1f5c345a9
+      internalID: -949867167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 985
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f631f3660a1f424caea459baac0450e
+      internalID: -1749371875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 974
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90039b0bd62c946a574352cca326cc
+      internalID: -945786493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 959
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144b4ff30d19f54bb623108b970c790
+      internalID: -382350301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 959
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deda09bf4f212341a1678e27d62811f
+      internalID: -1087684008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 959
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620f82c891f0494bb1c51a0731b9c9e
+      internalID: -1409160720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 959
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa80503d5f36e42a99eed4ae766154
+      internalID: 167605107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 951
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef81af89afcbb85419cc7e412a5e68d7
+      internalID: -1329900037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 947
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aa0df680053494b9963634b6319ebe
+      internalID: -1065890972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 948
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607b99a7565d2794d98a5f9c444cd731
+      internalID: -2024026930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 946
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f24aca2e3e7e46bf353f5ce1b4be0
+      internalID: 1009348069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827d96de6eb9e94b825569199dfda19
+      internalID: 1410927935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 895
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a410db3f162204c80be3a9f7707a5e
+      internalID: 763500336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 943
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73dccffae537b54485765a862fc94ca
+      internalID: -1255829769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 945
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a424cb0a20cf5246bbb11a937559c6e
+      internalID: 332674531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 891
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de030f8bf1fe94f8a3f98f2fac3947
+      internalID: -68390715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 895
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb2a5637517814fa55cce8745b9ddf
+      internalID: 629001216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 894
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303eacc59970c44ab35817e3cc64766
+      internalID: -1500173355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 893
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184b4b1e5448174f9e38ae95cc6a557
+      internalID: -655575737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 895
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc897a2375a7a1e4c8c46a523abb4e75
+      internalID: 1698273665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 901
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31713062c38788e44b7560750f1a7092
+      internalID: -732021297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 902
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce339fadd5b1b749a455364878563f5
+      internalID: 1524737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 901
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e887e536278d74c97657cf53082e25
+      internalID: 125979666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 901
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e9d07b20707024ea80b28fef8922e8
+      internalID: -1591244960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 899
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44ad0331e50bb4393ae7a8cd6be0a1
+      internalID: 1204960131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 899
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e3072854bac449a9ea230ba37a4af
+      internalID: -1503055417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 873
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb0a2990eae5743a46184cc4f3da0f
+      internalID: 1384637226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 872
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883f5d23efa8e7f449b1b3dd1c7580cd
+      internalID: -417925181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 871
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3699d0b2d1e21246b1b3f3b31eea6db
+      internalID: -2074941939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 832
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeecfd271aecf144aaf90bc22c50ae34
+      internalID: 1946563755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 833
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e01fdeb81c28a40a89a01d359a8fe7
+      internalID: -1876304436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 835
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8842f4549ff990e4c9989ba857731ebb
+      internalID: -469983688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 833
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493c64052f89304c983c08eaed216da
+      internalID: 777130949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 833
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113260fb9a6814469dfcb7ad2671b80
+      internalID: -720005618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 834
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f45ce114a9f04793ae7db60d58837
+      internalID: -1353141957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 831
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb05ba5951f34648a82983ad966f6ae
+      internalID: 1971302276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 830
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e8d746235fffa4ab56d8c776815edd
+      internalID: -461268522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 831
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8103deefdeeef40a1671e554498af0
+      internalID: 1352135463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 830
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44951af9979d9a64e92b7845a500bc3e
+      internalID: 1020470417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 830
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b1b1e5be3705429d7953f19859016
+      internalID: 745537621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 854
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d906a210eb3f43a8457c714617243
+      internalID: 114239873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 830
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b2addd7591a6b46b4009ab73b245e0
+      internalID: -1363093071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 849
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564abbb60af16ca49a92e19dd2bab44a
+      internalID: 154553337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 847
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05a11bc690f25543bfda3af02374141
+      internalID: 1616029931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 817
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35d48e68a59304695d8074d75b0c27
+      internalID: 602979426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 773
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4601362e9548c0c48b5cc013b806af6a
+      internalID: 1800959894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 770
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e9319ea460bd49ac04fd4384795fb
+      internalID: -1172499818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 770
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004ddf557a03ccb4890da2ceff693a68
+      internalID: -78429832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 771
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158aa509275b3b746bffe9c96e24021b
+      internalID: 2066471799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 771
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed05ede151260418455f2e21feb157
+      internalID: -756433014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 771
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396c71c7c9f63547bd7ff2ba1032ce3
+      internalID: -1544150475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 780
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e438d4c82669444fa8983716e8f98e8
+      internalID: -1700135564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 774
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad09d33d555f974d85fb7854ba7bd7d
+      internalID: -275249195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 770
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65e811205df98944b1eb181c04856fe
+      internalID: -650104207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 769
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fe50df2ae1ff74eb560be2ea1c00f7
+      internalID: 753581644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 769
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c8dcbfdc7297d4fbd1560d3daec8de
+      internalID: 1023748004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 754
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bee06171d12eb44687d4e9ef002bcfe
+      internalID: -23876064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_109
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 707
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b772754dd6a2a5d4aaca39cef3f09984
+      internalID: -531701953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 707
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ea4ea98a146946a553f9ecfc4bf62
+      internalID: -118389737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 706
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc05705a7d629ab47b2a67d7acc6695f
+      internalID: 1268188439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 706
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf6cc3c829e54144b1cd226b37a96b6
+      internalID: 796937003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 707
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c5eafbb331cd54cb5f5305616f4dac
+      internalID: 1981202939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 706
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc758f0d45d5254f8c5e56759ccedd8
+      internalID: -895188571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040e4df87a7aafc42be8a5e4df31e560
+      internalID: -873976952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 707
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5dd271c68d5b4b8741e2cbf851d7f
+      internalID: -1749582835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 707
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827dfd81a28c5e4abfdda18f0cabe2b
+      internalID: -351782677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 707
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f6e176837f2a749aa360efe7c433b2
+      internalID: 95761486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 691
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32839de14876a5042b2db28692c28cf4
+      internalID: -1769845896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 635
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9290b1b7d9f0ae44b7361d857939a1d
+      internalID: -1665049127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_121
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 632
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabd28a0a2a208a49a54139e21d1f925
+      internalID: 62196313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 630
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079d9a092287b5e4eb4811711f2da717
+      internalID: 894515765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 629
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a096075488441144eb3a9975f66a3a23
+      internalID: -540745885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 629
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5216f050600f848937f25500f112b9
+      internalID: -377651182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 632
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca528506f36614698b79b69e1d882a
+      internalID: 209091635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 636
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c65e399a670034698840245cf1c1d7
+      internalID: 493086023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 639
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8dc59f58af9344aa8f5a3680ff141
+      internalID: 2060721454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 609
+        width: 56
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8725c6255f1dd9948b9badd143691c05
+      internalID: -1937275191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 554
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d7f905bbf74c4ba6c7e5cd787ae41
+      internalID: 528059602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 555
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bd2c9c4df20f444a40da3442c5a722
+      internalID: -214745122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 556
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3308a82c1f0d7342908e8aaab479de4
+      internalID: 929080205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 555
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc52513eb9cce4183a3f53c83b7da2
+      internalID: -1872004661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 557
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a8f79089678e499783270e69b709f
+      internalID: 321657112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 557
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb31b0f0516efa40b061eda2e8d9727
+      internalID: -1848760151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 556
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8672a809e6b3b4e94c2525e0eb2768
+      internalID: 1813169830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 555
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401db5c72c032c94881db4c467661086
+      internalID: 985380872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 556
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eacd56bd3180bc4280f4abf7c715b9b
+      internalID: 1364805509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 556
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b3d61234e9e04792a15ddf0d2b2c7
+      internalID: -2071337803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_139
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 578
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2979b0e8088aef546b4fbeb7d9db889b
+      internalID: 1390807257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_140
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 565
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84605fccb0ffd7e4db480ae67d6c0623
+      internalID: -2095013403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_141
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 566
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b597ce9a4ccf83440aab3063de9a4bed
+      internalID: -1381166754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_142
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 568
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fe9d9017c7b7b4298c9a4096fde06e
+      internalID: -797847342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_143
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 538
+        width: 57
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a8a57c1c5e7ef4dbc7c381fe5d34ac
+      internalID: 612884737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_144
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 488
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89250786570ca648b54f07d96ad098b
+      internalID: 1788480859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_145
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 487
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d17023b7c98a243bc082d3bea6babf
+      internalID: 661418030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_146
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 487
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3d2321bb035f4db802ee0c6519093
+      internalID: -1204501553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_147
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 487
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b49462c210d0b41a9c055e51a6b57c
+      internalID: 1311765628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_148
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 503
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934053c341da07d4283b8f9f9877d201
+      internalID: -1765393222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_149
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 500
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0642f5dd8db4a924a8f0606fbe1911cd
+      internalID: 165836993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_150
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 496
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e2c43629a5728449b3b1dbf083758e
+      internalID: 935534692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_151
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 493
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a890e5c9f8c9c43a1f77d037fc7e1a
+      internalID: -1457413997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_152
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 493
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9f50441dd05444bfbe23e5b072cc5
+      internalID: -1586029944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_153
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 494
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bfc333f8090414baa83d71da236136
+      internalID: -1970352746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_154
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 492
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a8cfbb6304ed459015a40d1d10802
+      internalID: 1654548536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_155
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 449
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43167081110816e4982e602168851770
+      internalID: 1466389854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_156
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 445
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863cd3a58c156aa4299097e3edea9ed1
+      internalID: 316169012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_157
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 439
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c79b9ea349a445856bcb0f0278423
+      internalID: -345651780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_158
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 434
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e340160eb6994990c875bc16bc522
+      internalID: 2025296117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_159
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 430
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c82bdae0d0e0d4ba7c938b3234c0f5
+      internalID: -926461949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_160
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 432
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d960f92f352644fba4effd0b3780f7
+      internalID: 1339098297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_161
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 430
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8b86b9010e5e24ba1f2131f3db4fa5
+      internalID: 384826520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 395
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8f2c94419f0a449a29741ef49d51a
+      internalID: -1269700965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3cc63ad25b09848ae6a6218c2d8348
+      internalID: 2028384191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4168bb77139081449290bea0b083785
+      internalID: -565397664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_165
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 318
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f9df906b5872040991c8ad6f6ccd6d
+      internalID: 123235200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 318
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afc4a3d1636704faf53635681306a5
+      internalID: -1883189880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_167
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 366
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6dfbd14781ea4ca3b4557596abbb4
+      internalID: -289265842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_168
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 367
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69b750d1ca95f4694bd64bfff9a303
+      internalID: 863022725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_169
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 316
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ccc862a8208f4e84848b3522384ab
+      internalID: -21702743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_170
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 317
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17418646c85a20d4ca85b3685a3a3116
+      internalID: -150589512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_171
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 318
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c51a8fd1a09b4ba45a6ab99ae0603
+      internalID: -1694505357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_172
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 318
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501aff395c47d7345ab7b347deaf3f67
+      internalID: -3341520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_173
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 320
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf36d1edc74454c8dafa7f64c44dec
+      internalID: -1278996780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_174
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 319
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbad1a0f90adf142902d3e95f760ca4
+      internalID: 1820666742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_175
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 319
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0623705e014f043b0a15fff7dbc358
+      internalID: -1838225726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_176
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 348
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1af31bafb01847863504dd3fdb11f
+      internalID: 2067675558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_177
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 335
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a252380f9817d43bad818caf22d6f7
+      internalID: -787854438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_178
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 335
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09666854a197620469293332ce6b8097
+      internalID: -240598872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_179
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 227
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f331042f3d3d4baa801a27c98f9fe
+      internalID: -1112845308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_180
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 228
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4361961e08278504d932fa9e3d8e02be
+      internalID: -1714218522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_181
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 269
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204ba9ce691f264182bbced88e9e3c0
+      internalID: 127634132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_182
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 272
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97dc820ef6e2d4f8dce98d18f85d9a
+      internalID: 443872801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_183
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 227
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3968e0b4b213684a8423d1937ea0b8a
+      internalID: 1939023065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_184
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 230
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c245728f18fc343b3b19746fb2754c
+      internalID: -1830568308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_185
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 229
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a95b3a4da51164f911247c41ae5e0b
+      internalID: 922908884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_186
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 272
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbef3c54fe8da9448ae6555053a17eb
+      internalID: 376778600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_187
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 281
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480d0a4665f2f743b35a8cf2ce83e5b
+      internalID: -1484810041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_188
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a2a6eba480fc47bca45b366c026b7
+      internalID: -1679577592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_189
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 228
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43eae9ed18ed9e4e8d5c4e33d3cc1cf
+      internalID: 947239860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_190
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 254
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2d8141fd441f04db69da027e4ca3d5
+      internalID: -776609831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_191
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 228
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa54cf13804d9542a01d1ee4d78ce29
+      internalID: -926160769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_192
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 229
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf37d8576940e46abe42c7a9bdcfc5
+      internalID: 2003760859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_193
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 255
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20170d7a27c9048b91298577fbd221
+      internalID: -1758250762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_194
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 231
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd879fe21cb17664ebc8ce8882263088
+      internalID: -61030096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_195
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 176
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38df418cafb4914bb489fae6c3d02ca
+      internalID: -1782889138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_196
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 176
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9cc0d87359ef45959a98037431b36
+      internalID: -817671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_197
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 200
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c6f1553dd6ac4984d8f16dc22c216
+      internalID: 1533036003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_198
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab37d4dd641134aa48fc8622f5c71f
+      internalID: -341449658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_199
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 188
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de1d7fff6b9444f9d344999bdfdc1c
+      internalID: -194399105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_200
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 65
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85240b9f1cc6afd49865c01b460b1b8e
+      internalID: 1319465240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_201
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 94
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef786920d595648a8b8348ba29c9c4
+      internalID: -1325335579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_202
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a09f9997e26bc4dba62eeda71b258a
+      internalID: -1577316004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_203
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 95
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e7fa929be6caa4e9f0fd9e94e74462
+      internalID: 1172703775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_204
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 94
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637f7a7795418f448d8f02f306301ee
+      internalID: -2019719104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_205
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 94
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9438d26c0a5f78440ad405cc9069a3ba
+      internalID: -1007895180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_206
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 105
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f49e4bd0021c4ab2071de130d07e8
+      internalID: -939948648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_207
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79ef70780aeac459792a00995172de
+      internalID: 1324253356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_208
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 114
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8cee3c1e276c54b8cb126f9b2ebadf
+      internalID: -1777220100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_209
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 101
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb557421716da459ac20388384fe7d
+      internalID: -692017321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_210
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 102
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe0285a594dee488517599bc7ce727
+      internalID: 581454978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_211
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317652951bcc3ab4eae3faaa9efc0e44
+      internalID: 1968579273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_212
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 13
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399d2271649fbc45a32cb3054a55e7d
+      internalID: -1298760484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_213
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 62
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee81c50ca8df3c48ac7384f2a83bcf4
+      internalID: -1943267837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_214
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0997e5f3dfda4499395f8a6e3dd66
+      internalID: 269931628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_215
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 14
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097eb58d10361c4896e616d6528f167
+      internalID: -172411578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_216
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55293a926cbcf1247b23cf268edb7ec7
+      internalID: -1970221180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_217
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e460970951537848af292b846762608
+      internalID: -1290140430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_218
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 11
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c07d1482dd3d4890c108c2e2c8381
+      internalID: -2039129610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_219
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 11
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b335656ae1b8e48890d9056b39ec49
+      internalID: 993802120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_220
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a68006deddad54aad78080a836efea
+      internalID: 1790576439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_221
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 10
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e1d685e82ff948a95ee271120c657
+      internalID: 1576499880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natsu-removebg_222
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 10
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a90c8324da6746ad37aac788da120
+      internalID: 1387339716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Natsu-removebg_0: 119998768
+      Natsu-removebg_1: 410272581
+      Natsu-removebg_10: -500561269
+      Natsu-removebg_100: 2066471799
+      Natsu-removebg_101: -756433014
+      Natsu-removebg_102: -1544150475
+      Natsu-removebg_103: -1700135564
+      Natsu-removebg_104: -275249195
+      Natsu-removebg_105: -650104207
+      Natsu-removebg_106: 753581644
+      Natsu-removebg_107: 1023748004
+      Natsu-removebg_108: -23876064
+      Natsu-removebg_109: -531701953
+      Natsu-removebg_11: 152066400
+      Natsu-removebg_110: -118389737
+      Natsu-removebg_111: 1268188439
+      Natsu-removebg_112: 796937003
+      Natsu-removebg_113: 1981202939
+      Natsu-removebg_114: -895188571
+      Natsu-removebg_115: -873976952
+      Natsu-removebg_116: -1749582835
+      Natsu-removebg_117: -351782677
+      Natsu-removebg_118: 95761486
+      Natsu-removebg_119: -1769845896
+      Natsu-removebg_12: 1934551361
+      Natsu-removebg_120: -1665049127
+      Natsu-removebg_121: 62196313
+      Natsu-removebg_122: 894515765
+      Natsu-removebg_123: -540745885
+      Natsu-removebg_124: -377651182
+      Natsu-removebg_125: 209091635
+      Natsu-removebg_126: 493086023
+      Natsu-removebg_127: 2060721454
+      Natsu-removebg_128: -1937275191
+      Natsu-removebg_129: 528059602
+      Natsu-removebg_13: -1951430309
+      Natsu-removebg_130: -214745122
+      Natsu-removebg_131: 929080205
+      Natsu-removebg_132: -1872004661
+      Natsu-removebg_133: 321657112
+      Natsu-removebg_134: -1848760151
+      Natsu-removebg_135: 1813169830
+      Natsu-removebg_136: 985380872
+      Natsu-removebg_137: 1364805509
+      Natsu-removebg_138: -2071337803
+      Natsu-removebg_139: 1390807257
+      Natsu-removebg_14: 241170267
+      Natsu-removebg_140: -2095013403
+      Natsu-removebg_141: -1381166754
+      Natsu-removebg_142: -797847342
+      Natsu-removebg_143: 612884737
+      Natsu-removebg_144: 1788480859
+      Natsu-removebg_145: 661418030
+      Natsu-removebg_146: -1204501553
+      Natsu-removebg_147: 1311765628
+      Natsu-removebg_148: -1765393222
+      Natsu-removebg_149: 165836993
+      Natsu-removebg_15: -529880892
+      Natsu-removebg_150: 935534692
+      Natsu-removebg_151: -1457413997
+      Natsu-removebg_152: -1586029944
+      Natsu-removebg_153: -1970352746
+      Natsu-removebg_154: 1654548536
+      Natsu-removebg_155: 1466389854
+      Natsu-removebg_156: 316169012
+      Natsu-removebg_157: -345651780
+      Natsu-removebg_158: 2025296117
+      Natsu-removebg_159: -926461949
+      Natsu-removebg_16: -676727967
+      Natsu-removebg_160: 1339098297
+      Natsu-removebg_161: 384826520
+      Natsu-removebg_162: -1269700965
+      Natsu-removebg_163: 2028384191
+      Natsu-removebg_164: -565397664
+      Natsu-removebg_165: 123235200
+      Natsu-removebg_166: -1883189880
+      Natsu-removebg_167: -289265842
+      Natsu-removebg_168: 863022725
+      Natsu-removebg_169: -21702743
+      Natsu-removebg_17: 1013115028
+      Natsu-removebg_170: -150589512
+      Natsu-removebg_171: -1694505357
+      Natsu-removebg_172: -3341520
+      Natsu-removebg_173: -1278996780
+      Natsu-removebg_174: 1820666742
+      Natsu-removebg_175: -1838225726
+      Natsu-removebg_176: 2067675558
+      Natsu-removebg_177: -787854438
+      Natsu-removebg_178: -240598872
+      Natsu-removebg_179: -1112845308
+      Natsu-removebg_18: 1512503584
+      Natsu-removebg_180: -1714218522
+      Natsu-removebg_181: 127634132
+      Natsu-removebg_182: 443872801
+      Natsu-removebg_183: 1939023065
+      Natsu-removebg_184: -1830568308
+      Natsu-removebg_185: 922908884
+      Natsu-removebg_186: 376778600
+      Natsu-removebg_187: -1484810041
+      Natsu-removebg_188: -1679577592
+      Natsu-removebg_189: 947239860
+      Natsu-removebg_19: -1075758884
+      Natsu-removebg_190: -776609831
+      Natsu-removebg_191: -926160769
+      Natsu-removebg_192: 2003760859
+      Natsu-removebg_193: -1758250762
+      Natsu-removebg_194: -61030096
+      Natsu-removebg_195: -1782889138
+      Natsu-removebg_196: -817671
+      Natsu-removebg_197: 1533036003
+      Natsu-removebg_198: -341449658
+      Natsu-removebg_199: -194399105
+      Natsu-removebg_2: -2144867866
+      Natsu-removebg_20: -396911588
+      Natsu-removebg_200: 1319465240
+      Natsu-removebg_201: -1325335579
+      Natsu-removebg_202: -1577316004
+      Natsu-removebg_203: 1172703775
+      Natsu-removebg_204: -2019719104
+      Natsu-removebg_205: -1007895180
+      Natsu-removebg_206: -939948648
+      Natsu-removebg_207: 1324253356
+      Natsu-removebg_208: -1777220100
+      Natsu-removebg_209: -692017321
+      Natsu-removebg_21: 1538240535
+      Natsu-removebg_210: 581454978
+      Natsu-removebg_211: 1968579273
+      Natsu-removebg_212: -1298760484
+      Natsu-removebg_213: -1943267837
+      Natsu-removebg_214: 269931628
+      Natsu-removebg_215: -172411578
+      Natsu-removebg_216: -1970221180
+      Natsu-removebg_217: -1290140430
+      Natsu-removebg_218: -2039129610
+      Natsu-removebg_219: 993802120
+      Natsu-removebg_22: -1447223183
+      Natsu-removebg_220: 1790576439
+      Natsu-removebg_221: 1576499880
+      Natsu-removebg_222: 1387339716
+      Natsu-removebg_23: 1747696335
+      Natsu-removebg_24: 1172503241
+      Natsu-removebg_25: -1322681223
+      Natsu-removebg_26: 1709191418
+      Natsu-removebg_27: -1178704712
+      Natsu-removebg_28: -721653816
+      Natsu-removebg_29: -1054231846
+      Natsu-removebg_3: -1106353781
+      Natsu-removebg_30: 38374583
+      Natsu-removebg_31: 1762471513
+      Natsu-removebg_32: -1573780906
+      Natsu-removebg_33: 480621215
+      Natsu-removebg_34: 1094441863
+      Natsu-removebg_35: 1893976219
+      Natsu-removebg_36: -1827742791
+      Natsu-removebg_37: -693598670
+      Natsu-removebg_38: 23117790
+      Natsu-removebg_39: -333559577
+      Natsu-removebg_4: 20832471
+      Natsu-removebg_40: -397025897
+      Natsu-removebg_41: -201340844
+      Natsu-removebg_42: 2126592000
+      Natsu-removebg_43: -1531895348
+      Natsu-removebg_44: -479250139
+      Natsu-removebg_45: -832418679
+      Natsu-removebg_46: -159054693
+      Natsu-removebg_47: -651219926
+      Natsu-removebg_48: -963643280
+      Natsu-removebg_49: -2061712871
+      Natsu-removebg_5: 1754651478
+      Natsu-removebg_50: 324676414
+      Natsu-removebg_51: -703428849
+      Natsu-removebg_52: -949867167
+      Natsu-removebg_53: -1749371875
+      Natsu-removebg_54: -945786493
+      Natsu-removebg_55: -382350301
+      Natsu-removebg_56: -1087684008
+      Natsu-removebg_57: -1409160720
+      Natsu-removebg_58: 167605107
+      Natsu-removebg_59: -1329900037
+      Natsu-removebg_6: -1291206512
+      Natsu-removebg_60: -1065890972
+      Natsu-removebg_61: -2024026930
+      Natsu-removebg_62: 1009348069
+      Natsu-removebg_63: 1410927935
+      Natsu-removebg_64: 763500336
+      Natsu-removebg_65: -1255829769
+      Natsu-removebg_66: 332674531
+      Natsu-removebg_67: -68390715
+      Natsu-removebg_68: 629001216
+      Natsu-removebg_69: -1500173355
+      Natsu-removebg_7: -1338713101
+      Natsu-removebg_70: -655575737
+      Natsu-removebg_71: 1698273665
+      Natsu-removebg_72: -732021297
+      Natsu-removebg_73: 1524737373
+      Natsu-removebg_74: 125979666
+      Natsu-removebg_75: -1591244960
+      Natsu-removebg_76: 1204960131
+      Natsu-removebg_77: -1503055417
+      Natsu-removebg_78: 1384637226
+      Natsu-removebg_79: -417925181
+      Natsu-removebg_8: 422209093
+      Natsu-removebg_80: -2074941939
+      Natsu-removebg_81: 1946563755
+      Natsu-removebg_82: -1876304436
+      Natsu-removebg_83: -469983688
+      Natsu-removebg_84: 777130949
+      Natsu-removebg_85: -720005618
+      Natsu-removebg_86: -1353141957
+      Natsu-removebg_87: 1971302276
+      Natsu-removebg_88: -461268522
+      Natsu-removebg_89: 1352135463
+      Natsu-removebg_9: -1615932132
+      Natsu-removebg_90: 1020470417
+      Natsu-removebg_91: 745537621
+      Natsu-removebg_92: 114239873
+      Natsu-removebg_93: -1363093071
+      Natsu-removebg_94: 154553337
+      Natsu-removebg_95: 1616029931
+      Natsu-removebg_96: 602979426
+      Natsu-removebg_97: 1800959894
+      Natsu-removebg_98: -1172499818
+      Natsu-removebg_99: -78429832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

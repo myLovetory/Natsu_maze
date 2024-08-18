@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: 2a14e5ac3578b06478b3b62b20433b31
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 982
+        width: 167
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50f6cddae8281346b390e2e3643a102
+      internalID: 143360110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1081
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bd6dfda7664042a62e7ec7a74ac02
+      internalID: -640933960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1081
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552a6a9d3a1616241aa5dd1b9f30858b
+      internalID: -253202410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 979
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14918384635ecf44889d9598917cda92
+      internalID: 584922322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 979
+        width: 121
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f017e50e0378a46883ee64cd743989
+      internalID: 1745719155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1031
+        width: 347
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9677076368f5bca419acb645234f7afe
+      internalID: 266424028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 980
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b45e7ea93cb74e9e156348791a1cf
+      internalID: 2139351453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 980
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba4a6d7c1e55f418cb511ae07c77a0
+      internalID: -653551918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 980
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb942ee11af604dbecfb24d8eadcbe
+      internalID: 1099617014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 980
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19ffadb1c1d22a4f853d3ac737f6f66
+      internalID: 1824556738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 907
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ea681472e59c45b474b7e0826e8d4
+      internalID: -756541117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 907
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966a24077a8e384eb63e9c991965fb9
+      internalID: -683246530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 907
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97c8aab42fe67438603e72e5b6504d
+      internalID: 1759513101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 907
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f72ddbb586784db3ecdf0b4c300e6
+      internalID: 1745985218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 907
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501458ff2c65d04683c8a7665f3ec8f
+      internalID: -1918683773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 907
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa79755a405baa4e9f44ddc6ab0829e
+      internalID: -1615813949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 907
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6db0f8b9cd7ca4e841d7f159b657cd
+      internalID: 1470092412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 907
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b9e1a8083f5c49962a7efaeafbf82
+      internalID: -561156718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 907
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838540646ed6c004692d95f661629795
+      internalID: -740808730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 907
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117adf5f33e045045a4865c54040b26f
+      internalID: -1675396077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 907
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a1f64c1c02d7469d010516c64bdef
+      internalID: -336680281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 907
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82808d6f5d4581488e9721a52b2340e
+      internalID: 2136929880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 907
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b0380067ddd93449093a6d2bb33fc5
+      internalID: -1771772757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 907
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53486c6158c7d2149ba5bda9486927bb
+      internalID: -1859388163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 909
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef86f10ec656ae4aa43d8186004adf5
+      internalID: -763923560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 907
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206eb639f0e46047a075ea09c90a214
+      internalID: 156713823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 907
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63b2250ae2437419866de7fe42780a
+      internalID: 338212045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 908
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f23d3b2e89b744b9cb1b79861203a
+      internalID: -1489528159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 906
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81efe6849570031448e3d5abb5e5ca96
+      internalID: -199861490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 907
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac8439ebf95144b9cd23e2e8278ce0
+      internalID: -2047895835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 907
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d39ec6e3ad7c443b78e3e5384f2d6a
+      internalID: -96815875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 832
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403fcc025bce77f4a946eadb0f0205a2
+      internalID: 306427867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 832
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb871da417f2d24f97ce8a47e2cfed9
+      internalID: 297181811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 832
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0424bef4c6f6d46b7e9806a2356f86
+      internalID: -1172751872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 832
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b49e9ff5bfca40ad7386761a8e96f
+      internalID: -924443117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 831
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ed038664a0aa4b8d1b2e24eb8a575
+      internalID: -606909177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 831
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce91066f264173146ae180e5c13a4088
+      internalID: 1060368956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 831
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6680845986767b44ad75e710201a229
+      internalID: -1311062287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 831
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fc82947ac23af458422e41429d2087
+      internalID: 778821436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 832
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b528a8acb7554aad4b769e46a3f56
+      internalID: -1575086919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 832
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1ad7b044d6734e99f5903b96df140
+      internalID: 1644926280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 831
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2a299072ca274b98f359dc5fc2147
+      internalID: -1207476214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 831
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144762b783837e84aabec9f07910534d
+      internalID: -1554822008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 831
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d8141a34f518468b6ae539198f9f3
+      internalID: 1424191179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 831
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbab26d59644484280f83a413290d05
+      internalID: 2036711040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 832
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b633e6209c366498ffc19af953b77e
+      internalID: -929485300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 831
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c700c63a9f6b45935ef5fe75d896c
+      internalID: -1739934654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 831
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850bcba53f464534281826cf02946375
+      internalID: -949639415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 756
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cab0bcc530cf648bfdbc69e94708c4
+      internalID: -2049644226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 756
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be39080c98fe3a44b2b3a1bee00ca47
+      internalID: 707224337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 756
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d23978f6490940a67eddb90ed86fc
+      internalID: -2093191647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 752
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d559e8fc8e40d42902bdd1e8388a12
+      internalID: 626885325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 756
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5ab9b6db3fe364d94fa300ba273c28
+      internalID: 561582132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 756
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5474236b531044ea2dc0537d76bd15
+      internalID: 321799241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 756
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b45f054f2ff640bc611fc93e0deea
+      internalID: 848399030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 757
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e998144732eb4b7449b859c59759a20e
+      internalID: 1520823432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 756
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65edca43427c41f47ae2f2f187bb6c98
+      internalID: 1342425449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 756
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa04965d83337b4781ef7ee03a18218
+      internalID: -576397977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 756
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d886cb3c3ebb06428bc2ebbd4b44562
+      internalID: -487955423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 779
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b3b592457924499253a5236f016bf
+      internalID: 1344373849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 756
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b734939465083449d2d1e7de2e3d49
+      internalID: -1059225781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 756
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de142bdc4b43034daab491489c8a662
+      internalID: 864365472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 756
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be280daaa7931b439a1e7e71fcec414
+      internalID: -1199077274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 783
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f556d957bb7a6445843b9b9fe148442
+      internalID: 1603123103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 756
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e89c9f17d9511346845892f238d1dfa
+      internalID: 1333434668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 784
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35b5795f689cd42ac6ac76f2311ece
+      internalID: 836887742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 756
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1886a7cb72ad46853e636e60c26b8
+      internalID: -1407563612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 780
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc843794dbfc5642a5534bd8240b462
+      internalID: -1648925344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 681
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6c161ce672794f83f488233b7d321
+      internalID: -1514452808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 681
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afeac832b2f48341b0d2054c192f89e
+      internalID: 1435185190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 681
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f8183816949e49a47e1d85a96f688
+      internalID: -1007719813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 681
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be8f25aed4ade479f25e8f9ac80437
+      internalID: 635578566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 724
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d491909010ab8847b2b0e87cd0607d6
+      internalID: 1739228055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 677
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac302ded300e9a4582bfe67587bfb01
+      internalID: 615947023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 681
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae48ad6a901266c4db5f7b077d32d1e8
+      internalID: 858195069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 681
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5001918121639428c449c343498d16
+      internalID: -775873343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 681
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd1b0d874643643905c6c36edfb917
+      internalID: -1739804511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 681
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131fc73c74b84341aa62741ca83be56
+      internalID: 51107103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 666
+        width: 108
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6614c4bea6414084ff9356d31113e
+      internalID: 1274660458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_79
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 606
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef7f22bd3b1e3478b40934f585d5e6
+      internalID: -1434079741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 606
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c82b51de8cc70499ea6c250959bb71
+      internalID: 1011861519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 635
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde1ba141555784083d2f1c28b7b26f
+      internalID: 912788664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_82
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 606
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a918aa96fc825b941a966ac53e369f1b
+      internalID: -77239909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 606
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7628988eb3c9bd1438bded6fc46c4cbe
+      internalID: 1615238891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 606
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd095364b207b40af037c8296003f7
+      internalID: 458725460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_85
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 606
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442969813a77c224b88b7412364a3797
+      internalID: 1686602755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 606
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277cf213636c1444291b8378d72809f1
+      internalID: -1863707205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_87
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 606
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9b7a39e01d1e54a878d834fd7bdac3
+      internalID: 893084264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_88
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 606
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84b1dee4e8dd70409ed79602beaad89
+      internalID: 2052705856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_89
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 606
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950121ff938b22f49b5ddb88ee902902
+      internalID: -1085260961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_90
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 606
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bfa0c7b0c19d34dab827b2e787c159
+      internalID: 945905848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_91
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 606
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682989e1a4dbdd0479c76cc4b82b90dc
+      internalID: 956936396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_92
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 606
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b84a37aacaf2104aa74e50debd43f40
+      internalID: 517054078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd29d7e07cfc8b439dc1b6310a5eddc
+      internalID: -2094432963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 530
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a200b8fe8818a41bf76486dbea777a
+      internalID: -725625545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_95
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 530
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27068c78264acdf48ad40490f0a92645
+      internalID: -2010396497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_96
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 530
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2303640a0c6524d96371631740b470
+      internalID: -483468447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_97
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 540
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b161d36cea694384ff7cc1145aaa9
+      internalID: 13433671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_98
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 539
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae5974780df1e49b0ef92610346e38
+      internalID: -1497176384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_99
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 541
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81704d028eaa7d408111b7a44268495
+      internalID: 1234506820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_100
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 542
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df52a326e833784aadbde5e088c0e24
+      internalID: -2011197879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_101
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 551
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff4a2818de73e49a70c0ed7c773180
+      internalID: -1318816788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_102
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 574
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a9ebcff19e544ca7821dd4f9521a5
+      internalID: -1979906220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_103
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 576
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddc3577f6dd43b43ba5f53bf5d2d4e9
+      internalID: -2098630420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_104
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 570
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6711d39c36d8c2944bd23d13b48979e9
+      internalID: -651716190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_105
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 570
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa4ecb9b13fb040b751f527fb7dc76
+      internalID: -870828606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_106
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 570
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f9ea39d2622d49a870a6b743c024f
+      internalID: -2057943344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_107
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 553
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e904d5274dbdce448b8d64f05f0e6d43
+      internalID: -67722721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_108
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 550
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf996096c6326d479f99db7790ed765
+      internalID: 953642054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_109
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 546
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113e8398d375f849a28893c12914200
+      internalID: 2026906114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_110
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 561
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910cba2514000844b6b2a7078deb036
+      internalID: -412845832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_111
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 556
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e86c0f9a3962246bce37c04e7061c4
+      internalID: 1435176162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_112
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 556
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fbd81e8a1cc224588898a6cfdc8ee7
+      internalID: 1598355908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_113
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 556
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f569c3b7a27e7004bb3135d40fd13453
+      internalID: 840183158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_114
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 546
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a7f29b8f6f6ee44b19b70be3fa7a58
+      internalID: -1206640261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_115
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 549
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ade61cefc03842806d355ea358a54
+      internalID: 1382657456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_116
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 543
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982410f78f9e2a47aa4a92f0aff344f
+      internalID: -1970489948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 419
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a1adfdd8216d4787bb7fae0b47bd6
+      internalID: -1796912371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_118
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 515
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fed8fe8e733a74fb2bf7f6588420dd
+      internalID: 1818583412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_119
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 419
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ff12daf356ef845b6f7f94c488f392
+      internalID: -26809016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_120
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 418
+        width: 57
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aa0faf16aaff449872d5816a1c854a
+      internalID: 1768073222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_121
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 418
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f03b156e6d05364992325ca64fe7761
+      internalID: 682562941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_122
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 419
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03625ed266dbe2448a19d67f162e19b8
+      internalID: -1191672225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_123
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 419
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c53187287ca726428f83708f3eb97f2
+      internalID: 480893241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_124
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 486
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca66061fe83a6643a4cf3f8fe4753b9
+      internalID: -497219933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_125
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 486
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21d73424eab4244ab57337b43ddf8e
+      internalID: -2140056809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_126
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 476
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec0d080ee0f23b4888ac66b2e3bdbfc
+      internalID: -1822385815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 418
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb3c1db64ed7ad4fbcb51b7ecd3a96b
+      internalID: -27700164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_128
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 419
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0eb7a7c7c7454d8e2e0467000999d
+      internalID: 218590294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_129
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 420
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6738a80b3ec9f4f94b93615d0d9d45
+      internalID: 599050751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_130
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 418
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb2f35ea3de054694874ef277d72ce
+      internalID: 1302451365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_131
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 418
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa853bfdc985b4393501496858feb5
+      internalID: -1392548877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_132
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 419
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef878e644d4ef04e9b61a356a1f3558
+      internalID: -815982082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_133
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 451
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896d93ef58548643b6afe36106b01e1
+      internalID: -18576081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_134
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 428
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39ad05e9dfe814eaa74f2222361a8d
+      internalID: -741147838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_135
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 432
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0197fba50bac42afd24d98a33e8fc
+      internalID: -1796226346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_136
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 361
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f84991fff57594ca72a82e5c939ccc
+      internalID: 595964076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_137
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 412
+        width: 101
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a10db806cfc4f45931766b1d49572f
+      internalID: 1293186927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_138
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 412
+        width: 99
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2615e4aae3d344e8b5d48106859d02
+      internalID: -337792422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_139
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 348
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6239b996f3b0640b9d29b574f41d63
+      internalID: -936046588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 401
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299713ce8cccc99459c39bc10472f3a9
+      internalID: 618932771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_141
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 401
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7bee80763d9ce4d811fe2a1bb63fcb
+      internalID: -979489943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_142
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 343
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db021625adaa38f47a6285d977b5fc56
+      internalID: 1246359479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_143
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 343
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e945308beec33744ca1b12fe03bf5fea
+      internalID: -953869532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_144
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 343
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64292de1b8e504c42a2ce195745f0591
+      internalID: -941189184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 343
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a92332f82fb48343a7fb9d40622baac
+      internalID: -33454673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_146
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 343
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8657f4c3d6ac224fa0e1e66ee90be85
+      internalID: 724644759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_147
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 343
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb96e4544ae0b4bbcb68f23078cde3
+      internalID: 588204909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_148
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 343
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bdef2bbbe8371408804aae61641403
+      internalID: -1458399734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_149
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 343
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30187cafd92418449bc2b81f263fadc6
+      internalID: 517436205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_150
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 344
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0adf218a0b912b4b8913827ffe94ad3
+      internalID: -346243495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_151
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 343
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89e8765dbe31644e8ecad0d943c065f
+      internalID: 1304946813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_152
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 343
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a392a95c9575174dbfe5634c5f05744
+      internalID: 106226509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_153
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 343
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4d459b444cde0468afeae34c720f8e
+      internalID: -1155171356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 267
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe0fb37b88ae64199f36b4ab4b0365
+      internalID: -178845344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 268
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bef25b4e4669e4a818758ddc0b0643
+      internalID: -658196295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_156
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 269
+        width: 52
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b2f5bdfae2304eb4bd3cfe3ccdf3c
+      internalID: -1733103215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_157
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb30298ea4d9e254ea29a29909914699
+      internalID: -494762593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_158
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 265
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a3fa02199745468c47c9d23140800
+      internalID: 1908898745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_159
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 267
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aa7e8ec47c8a2469cf8f7d33fc54b3
+      internalID: -1847853053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_160
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 267
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1edfcdab880274893e10df94cbdc36
+      internalID: -1484389881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_161
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 267
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7af2c0d9b332ee4c892b1498a469ffd
+      internalID: 625176059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_162
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 267
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b19822043a753d40b6f01f9de8e17f6
+      internalID: 2026785382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_163
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 267
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c187760b4c0a4492e3d84d16491f1
+      internalID: -241297472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_164
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 126
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e75d682a1b0d4fb41d8fe15a19d8d
+      internalID: -1509654015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_165
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 126
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2060b6e569b6c724290789c0cf5ff953
+      internalID: 1247751882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_166
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 182
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa885e1d10062fe43b2f798cf52735d0
+      internalID: -953913669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 182
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f16a022118b141a83fcf1bf252073
+      internalID: -1589690980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_168
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 62
+        width: 262
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832b92e9a5048d48bc6539310f6c4dc
+      internalID: 586106286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_169
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 194
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd81f9f51281f54a82d04cdaa4c0496
+      internalID: 84793467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_170
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 194
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22aa7cefc8236459a8d5574066f600
+      internalID: 1792272216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_171
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 195
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ecff999ce9fd045a8742f564329d01
+      internalID: 1331147936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_172
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 126
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7384f267c62444fb81e7f9761b6344
+      internalID: -1980666963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_173
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 127
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df08eec0731d65a4ea16cb2a4891bc9e
+      internalID: -562997924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 127
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d93a650e7b9749aa317466de074ed
+      internalID: 429020824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_175
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 121
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f25e5ac336794db3a9bdaea6cda95
+      internalID: 47993362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_176
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 122
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab49146237383d940bbdbe69bf624f6e
+      internalID: 1543143266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_177
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 122
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f0bc7c88dbb54db7d403ca7df7bcc
+      internalID: -1377696185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_0: 143360110
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_1: -640933960
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_10: -756541117
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_100: -2011197879
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_101: -1318816788
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_102: -1979906220
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_103: -2098630420
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_104: -651716190
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_105: -870828606
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_106: -2057943344
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_107: -67722721
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_108: 953642054
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_109: 2026906114
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_11: -683246530
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_110: -412845832
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_111: 1435176162
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_112: 1598355908
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_113: 840183158
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_114: -1206640261
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_115: 1382657456
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_116: -1970489948
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_117: -1796912371
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_118: 1818583412
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_119: -26809016
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_12: 1759513101
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_120: 1768073222
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_121: 682562941
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_122: -1191672225
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_123: 480893241
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_124: -497219933
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_125: -2140056809
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_126: -1822385815
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_127: -27700164
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_128: 218590294
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_129: 599050751
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_13: 1745985218
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_130: 1302451365
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_131: -1392548877
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_132: -815982082
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_133: -18576081
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_134: -741147838
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_135: -1796226346
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_136: 595964076
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_137: 1293186927
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_138: -337792422
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_139: -936046588
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_14: -1918683773
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_140: 618932771
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_141: -979489943
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_142: 1246359479
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_143: -953869532
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_144: -941189184
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_145: -33454673
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_146: 724644759
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_147: 588204909
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_148: -1458399734
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_149: 517436205
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_15: -1615813949
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_150: -346243495
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_151: 1304946813
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_152: 106226509
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_153: -1155171356
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_154: -178845344
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_155: -658196295
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_156: -1733103215
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_157: -494762593
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_158: 1908898745
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_159: -1847853053
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_16: 1470092412
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_160: -1484389881
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_161: 625176059
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_162: 2026785382
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_163: -241297472
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_164: -1509654015
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_165: 1247751882
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_166: -953913669
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_167: -1589690980
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_168: 586106286
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_169: 84793467
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_17: -561156718
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_170: 1792272216
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_171: 1331147936
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_172: -1980666963
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_173: -562997924
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_174: 429020824
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_175: 47993362
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_176: 1543143266
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_177: -1377696185
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_18: -740808730
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_19: -1675396077
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_2: -253202410
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_20: -336680281
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_21: 2136929880
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_22: -1771772757
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_23: -1859388163
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_24: -763923560
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_25: 156713823
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_26: 338212045
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_27: -1489528159
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_28: -199861490
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_29: -2047895835
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_3: 584922322
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_30: -96815875
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_31: 306427867
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_32: 297181811
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_33: -1172751872
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_34: -924443117
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_35: -606909177
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_36: 1060368956
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_37: -1311062287
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_38: 778821436
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_39: -1575086919
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_4: 1745719155
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_40: 1644926280
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_41: -1207476214
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_42: -1554822008
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_43: 1424191179
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_44: 2036711040
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_45: -929485300
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_46: -1739934654
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_47: -949639415
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_48: -2049644226
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_49: 707224337
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_5: 266424028
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_50: -2093191647
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_51: 626885325
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_52: 561582132
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_53: 321799241
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_54: 848399030
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_55: 1520823432
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_56: 1342425449
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_57: -576397977
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_58: -487955423
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_59: 1344373849
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_6: 2139351453
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_60: -1059225781
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_61: 864365472
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_62: -1199077274
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_63: 1603123103
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_64: 1333434668
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_65: 836887742
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_66: -1407563612
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_67: -1648925344
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_68: -1514452808
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_69: 1435185190
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_7: -653551918
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_70: -1007719813
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_71: 635578566
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_72: 1739228055
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_73: 615947023
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_74: 858195069
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_75: -775873343
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_76: -1739804511
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_77: 51107103
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_78: 1274660458
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_79: -1434079741
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_8: 1099617014
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_80: 1011861519
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_81: 912788664
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_82: -77239909
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_83: 1615238891
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_84: 458725460
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_85: 1686602755
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_86: -1863707205
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_87: 893084264
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_88: 2052705856
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_89: -1085260961
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_9: 1824556738
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_90: 945905848
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_91: 956936396
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_92: 517054078
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_93: -2094432963
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_94: -725625545
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_95: -2010396497
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_96: -483468447
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_97: 13433671
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_98: -1497176384
+      natsu_sprites__god_slayer_flames_by_alejo123456789_d6y38pv-fullview-removebg_99: 1234506820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

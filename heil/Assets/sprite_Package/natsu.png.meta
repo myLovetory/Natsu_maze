@@ -1,0 +1,1473 @@
+fileFormatVersion: 2
+guid: aaf7eeb9002c50045a4839ceae8c38d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: natsu_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2008
+        width: 166
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ca983dbde9cc4fa58a9dd06dc71f3
+      internalID: -1998741488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2010
+        width: 92
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c405f22e82de24a8838e4bab26823a
+      internalID: -412950055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1815
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58cf253b2daa18489b8ee51897ad680
+      internalID: -489512044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_3
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 44
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53e3cd2619b73c4ab6b3a78650ecdee
+      internalID: -1902708610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_4
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 4
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc157ea5ad657e4aadb8818737ff1ea
+      internalID: -1889526579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1551
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0342e70cae2a4048b1498dd07c1b524
+      internalID: 291863954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1828
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85fedc7751754c44bab1b11c494c58a
+      internalID: 1410467174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1813
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d9d4672650911419babc15cc53cce8
+      internalID: -59313344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_8
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1832
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a854a4834a74549bd5659cc55d1cb8
+      internalID: 1337497443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_9
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1821
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79425521aa95ba34792d4f607c62610d
+      internalID: 1006644501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_10
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1825
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dc727ee19b21546a1a0510a6133d48
+      internalID: -316896263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_11
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1821
+        width: 83
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a2499d36210e4d9e61f3cae94a190
+      internalID: -1782410897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_12
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1815
+        width: 91
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208039afcfae0ac4f8943535901a69ec
+      internalID: 338209316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1559
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0cd29411fff744f8abf3c73070ffdb
+      internalID: 1021866823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1567
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e15202f3cc16a34baa82918c1ef5ce1
+      internalID: 185104897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_15
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1567
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26f7b649aa5ba240a1c3e4001a9e28a
+      internalID: 1045185133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_16
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1557
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bfe37defd7f2a4ca00826a34e80282
+      internalID: 1225962615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_17
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1561
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea0ab10cb59f64198cacc5f36de8f2
+      internalID: -536206359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_18
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1557
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0266fa7e8b2ab44b5c6031d86beb04
+      internalID: 64920699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_19
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1561
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852469d1045f4dd4dbfd4681ab725d13
+      internalID: 1832764699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1312
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94877f5ac120e4843b88089feecd7243
+      internalID: 507319296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1066
+        width: 239
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fad0321b8013c44bac60ef1db6aee7
+      internalID: 1206521179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1329
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a289e2af988d4583993d6995e35ee
+      internalID: 1107388256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1316
+        width: 85
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f918d1aef84ce0498fea4c52a1c885b
+      internalID: 175753559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1312
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26bab158bdc9424d944a4e5cdd65858
+      internalID: 1556646140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_25
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1316
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5310dddde6d5b1847ad74855701faac1
+      internalID: -1510048925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_26
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1312
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac759b6a119f5794ea4f766d4309b029
+      internalID: 1460510705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_27
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1327
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc33025eb9ae1d340a84c9a2f9ad8250
+      internalID: 813691133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_28
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1324
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b05e73d921444db449c2b2af9c6a3
+      internalID: -1441563158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1068
+        width: 105
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ad47daf262114bbaf601830d433a9
+      internalID: 214231865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1058
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1984836f9c8ce62458c2c6b0891b2c01
+      internalID: 2022616725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_31
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1062
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0489b21d75e25445af2df47c016aa7a
+      internalID: -410597166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_32
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1060
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac0b4974a20fe64ead8a1c62f4b1d50
+      internalID: 1728312003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_33
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1058
+        width: 232
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7745a8c9340445aac7429ff868390
+      internalID: -167689265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_34
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1081
+        width: 170
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485727feb848db64bb69767e18ff27ee
+      internalID: -546872343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_35
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1060
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc11abffc592ee45874e414040e6118
+      internalID: 1970911613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 804
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8573b11f1533c8c46ac64b77f9c047ba
+      internalID: 1428171400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 809
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92af87ef0afe994c83ae3c88ca9d7e5
+      internalID: -325485016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 821
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8cbf9caaec201498804cbcaf689db3
+      internalID: -628662894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_39
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 804
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a56ca208b98142a7bebbef8084347
+      internalID: -1546162764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_40
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 819
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2cd7a3ba19f31449a4972ae51fe171
+      internalID: -2044304384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_41
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 825
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e376ca06e62c3d4e854bc618f169694
+      internalID: 1436459113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_42
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 840
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3ef4ec4324014094e7fbb1e744571
+      internalID: 1134997355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_43
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 836
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d64e8d6ba24b34aa2f118aac1d6b47
+      internalID: 6396568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 562
+        width: 127
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf374be8ed379844fbcbcc1eb2950160
+      internalID: 1486534138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 558
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d336be0192bba447a8aee8a129eb8f6
+      internalID: -281418785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_46
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 574
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8ad0beaa88fa4d89d852e195f00d5
+      internalID: 905775119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_47
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 571
+        width: 153
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c316bda0c3a344d9a8a49475f12e3d
+      internalID: -1039670287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_48
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 567
+        width: 153
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc8418fc00f8f44868de1dbd631301
+      internalID: 1844359463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_49
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 569
+        width: 155
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e53c76af5e2412498ebbb731543f412
+      internalID: -2034422488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_50
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 564
+        width: 141
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe594346d3c7d34790d492391609d3d
+      internalID: -1046384118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_51
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 564
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dbe24eef6556241a5df83a0a6e8330
+      internalID: 1114119402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_52
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 314
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a135045a0acac44a8a2bf6b70286006
+      internalID: 633996289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 310
+        width: 121
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e91492b9f250994b9ba7daaef3b37bd
+      internalID: 1118728270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_54
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 314
+        width: 136
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0d460988de3b748848f652f9f52ecb
+      internalID: 250878473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_55
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 323
+        width: 175
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a892c91f88fa8f41968405c63ad8b21
+      internalID: 1435944086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_56
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 317
+        width: 210
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fc3439351e3ab4ea69049449e43341
+      internalID: -1977249721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_57
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 321
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33232c6eb5f884d45ac20df6aeb5f359
+      internalID: -1986300593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_58
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 323
+        width: 96
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a236385c25106409d02309781c9b16
+      internalID: 1226488017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: natsu_59
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 307
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c04d7638416e5429914475078b3f41
+      internalID: -1124136158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      natsu_0: -1998741488
+      natsu_1: -412950055
+      natsu_10: -316896263
+      natsu_11: -1782410897
+      natsu_12: 338209316
+      natsu_13: 1021866823
+      natsu_14: 185104897
+      natsu_15: 1045185133
+      natsu_16: 1225962615
+      natsu_17: -536206359
+      natsu_18: 64920699
+      natsu_19: 1832764699
+      natsu_2: -489512044
+      natsu_20: 507319296
+      natsu_21: 1206521179
+      natsu_22: 1107388256
+      natsu_23: 175753559
+      natsu_24: 1556646140
+      natsu_25: -1510048925
+      natsu_26: 1460510705
+      natsu_27: 813691133
+      natsu_28: -1441563158
+      natsu_29: 214231865
+      natsu_3: -1902708610
+      natsu_30: 2022616725
+      natsu_31: -410597166
+      natsu_32: 1728312003
+      natsu_33: -167689265
+      natsu_34: -546872343
+      natsu_35: 1970911613
+      natsu_36: 1428171400
+      natsu_37: -325485016
+      natsu_38: -628662894
+      natsu_39: -1546162764
+      natsu_4: -1889526579
+      natsu_40: -2044304384
+      natsu_41: 1436459113
+      natsu_42: 1134997355
+      natsu_43: 6396568
+      natsu_44: 1486534138
+      natsu_45: -281418785
+      natsu_46: 905775119
+      natsu_47: -1039670287
+      natsu_48: 1844359463
+      natsu_49: -2034422488
+      natsu_5: 291863954
+      natsu_50: -1046384118
+      natsu_51: 1114119402
+      natsu_52: 633996289
+      natsu_53: 1118728270
+      natsu_54: 250878473
+      natsu_55: 1435944086
+      natsu_56: -1977249721
+      natsu_57: -1986300593
+      natsu_58: 1226488017
+      natsu_59: -1918234263
+      natsu_6: 1410467174
+      natsu_7: -59313344
+      natsu_8: 1337497443
+      natsu_9: 1006644501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
