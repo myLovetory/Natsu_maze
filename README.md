@@ -6,4 +6,6 @@ asset đi trộm trên ch play vể :3
 Link demo thì này
 https://gianglinhnguyen.itch.io/myy-huyen
 
-=)) tui lười tạo map lắm nên là ehe 3 map giống nhau
+=)) tui lười tạo map lắm nên là ehe 3 map giống nhau( cơ bản là ko thích làm 2d cho lắm :3) 
+
+
